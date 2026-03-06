@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HW01/HW01.vcxproj" Id="cf1760dd-b932-40af-9ac4-fe5b66447d40" />
+</Solution>
